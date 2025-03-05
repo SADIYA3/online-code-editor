@@ -1,0 +1,1 @@
+the Online Code Editor is a simple yet powerful web-based tool that allows users to write, edit, and execute HTML, CSS, and JavaScript code in  It provides a clean and intuitive interface for developers to test and preview their code snippets without needing an external IDE or browser console.
